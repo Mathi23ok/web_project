@@ -1,0 +1,33 @@
+A basic calculator web app built using HTML, CSS, and JavaScript.
+
+✨ Features
+Perform addition, subtraction, multiplication, and division
+
+Clear (AC) and delete (DEL) functions
+
+Support for decimal numbers and double zero (00)
+
+Responsive and modern user interface
+
+📁 Files
+index.html – Contains the main HTML structure
+
+style.css – Defines the calculator’s styles
+
+script.js – (Optional) External JS file for logic (currently unused; logic is inline in HTML)
+
+▶️ Usage
+Download or clone the repository
+
+Open index.html in your web browser
+
+Start calculating!
+
+🛠️ Customization
+Move inline JavaScript to script.js for better structure
+
+Modify styles in style.css to customize the look
+
+📄 License
+This project is open-source and free to use.
+
